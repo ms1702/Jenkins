@@ -4,7 +4,7 @@ public class Jenkins {
 
 	public static void main(String[] args) {
 		
-		System.out.println("hello from githun and jenkins");
+		System.out.println("hello from github and jenkins");
 	}
 
 }
